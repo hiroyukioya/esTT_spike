@@ -70,5 +70,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or collaboration requests, please contact:
 
-- Email: your.email@example.com
+- Email: hiroyuki-oya@uiowa.edu
 - GitHub: https://github.com/yourusername

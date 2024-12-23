@@ -2,7 +2,8 @@
 
 ## Overview
 
-The **ESTT Project** focuses on the electrical stimulation and recording of brain activity, particularly targeting the neural responses and spike activity in the human brain. It involves the collection of electrophysiological data through brain stimulation techniques, followed by the analysis of single-unit neural spikes. This project aims to further our understanding of neural encoding, brain stimulation therapies, and the interactions between brain circuits in response to electrical stimuli.
+The **ESTT Project** focuses on the electrical stimulation and recording of brain activity, particularly targeting the neural responses and spike activity in the human brain. It involves the collection of electrophysiological data through brain stimulation techniques, followed by the analysis of concurrently recorded single-unit neural spikes. This project aims to further our understanding of brain connection, neural encoding, brain stimulation therapies, and the interactions between brain circuits in response to electrical stimuli. 
+Here we used single-pulse direct brain stimulation and single-unit recording in humans.
 
 ## Objectives
 

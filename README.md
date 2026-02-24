@@ -1,4 +1,4 @@
-# ESTT Project: Electrical Stimulation Recording of Human Brain and Single-Unit Analysis of Spike Activity
+# ESTT Project: Electrical Stimulation and Recording of Human Brain: Single-Unit Analysis of Spiking Activity
 
 ## Overview
 
